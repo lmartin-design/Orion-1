@@ -1,1 +1,0 @@
-{"('Hi', 'there!')": ["What"], "('there!', 'What')": ["can"], "('What', 'can')": ["I"], "('can', 'I')": ["help"], "('I', 'help')": ["you"], "('help', 'you')": ["with"], "('you', 'with')": ["today?"], "('with', 'today?')": ["<EOS>"], "('Bye!', 'See')": ["you"], "('See', 'you')": ["later."], "('you', 'later.')": ["<EOS>"]}
